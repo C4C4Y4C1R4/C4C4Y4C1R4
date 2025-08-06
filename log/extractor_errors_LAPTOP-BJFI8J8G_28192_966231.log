@@ -1,0 +1,120 @@
+2025-08-07 00:34:40 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 688.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:34:40 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 688.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:36:29 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 693.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:36:29 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 693.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:40:19 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 696.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:40:19 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 696.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:41:04 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 698.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:41:04 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 698.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:41:44 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 699.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:41:44 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 699.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:42:24 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 700.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:42:24 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 700.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:43:05 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 701.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:43:05 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 701.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:43:45 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 703.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:43:46 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 703.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:44:25 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 705.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:44:26 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 705.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:45:05 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 706.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:45:06 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 706.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:45:46 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 707.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:45:47 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 707.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:46:26 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 708.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:46:27 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 708.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:47:06 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 710.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:47:07 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 710.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:47:47 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 711.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:47:47 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 711.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:48:27 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 712.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:48:28 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 712.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:49:07 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 713.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:49:08 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 713.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:49:47 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 714.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:49:48 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 714.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:50:28 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 715.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:50:28 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 715.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 00:51:08 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 716.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 00:51:09 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 716.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
+2025-08-07 01:27:40 [ERROR   ] [Instance: LAPTOP-B] - I/O Error while processing 'G:\My Drive\@TXTLOG_ALIEN - 717.txt': [Errno 22] Invalid argument! Skipping this file.
+Traceback (most recent call last):
+  File "C:\Users\FAHRI\Desktop\log\scan_cms_mod.py", line 1946, in process_file
+    for line_text in f_std:
+OSError: [Errno 22] Invalid argument
+2025-08-07 01:27:41 [ERROR   ] [Instance: LAPTOP-B] - Processing of file '@TXTLOG_ALIEN - 717.txt' failed or was aborted (process_file returned -1). File will be re-attempted on a next run if not logged.
